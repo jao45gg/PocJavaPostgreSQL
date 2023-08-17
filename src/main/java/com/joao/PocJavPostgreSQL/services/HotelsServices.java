@@ -1,4 +1,4 @@
-package com.joao.firstjavaproject.services;
+package com.joao.PocJavPostgreSQL.services;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,8 +6,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.joao.firstjavaproject.classes.Hotel;
-import com.joao.firstjavaproject.repositories.HotelRepository;
+import com.joao.PocJavPostgreSQL.classes.Hotel;
+import com.joao.PocJavPostgreSQL.repositories.HotelRepository;
 
 @Service
 public class HotelsServices {

@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.joao</groupId>
-	<artifactId>first-java-project</artifactId>
+	<artifactId>PocJavPostgreSQL</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>first-java-project</name>
+	<name>PocJavPostgreSQL</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>

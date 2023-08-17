@@ -1,8 +1,8 @@
-package com.joao.firstjavaproject.repositories;
+package com.joao.PocJavPostgreSQL.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.joao.firstjavaproject.classes.Hotel;
+import com.joao.PocJavPostgreSQL.classes.Hotel;
 
 public interface HotelRepository extends JpaRepository<Hotel, Integer> {
     

@@ -1,4 +1,4 @@
-package com.joao.firstjavaproject.controllers;
+package com.joao.PocJavPostgreSQL.controllers;
 
 import java.util.List;
 import java.util.Optional;
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.joao.firstjavaproject.classes.Hotel;
-import com.joao.firstjavaproject.services.HotelsServices;
+import com.joao.PocJavPostgreSQL.classes.Hotel;
+import com.joao.PocJavPostgreSQL.services.HotelsServices;
 
 @RestController
 @RequestMapping("hotels")
